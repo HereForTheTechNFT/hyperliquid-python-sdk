@@ -1,3 +1,7 @@
+## Parcours francais
+
+Guide defensif du SDK dans docs/fr/README.md.
+
 # hyperliquid-python-sdk
 
 <div align="center">
